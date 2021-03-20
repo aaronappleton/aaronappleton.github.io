@@ -1,6 +1,6 @@
 ---
-Title: andrew cotter
-Subtitle: computational art + design
+Title: Aaron Appleton
+Subtitle: Learning Experience Designer + Creative Technologist
 Remote: https://localprojects.com/work/ABB
 Hero: abb.png
 ---
