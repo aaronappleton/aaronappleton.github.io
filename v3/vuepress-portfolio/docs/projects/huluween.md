@@ -1,8 +1,8 @@
 ---
-Title: andrew cotter
-Subtitle: computational art + design
+Title: Aaron Appleton
+Subtitle: Learning Experience Designer + Creative Technologist
 Remote: https://medium.com/active-theory/huluween-the-screamlands-b1324f32ee7d
-Hero: huluween.gif
+Hero: alusowc.jpg
 ---
 
 ::: slot title
