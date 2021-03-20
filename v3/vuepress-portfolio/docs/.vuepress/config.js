@@ -1,5 +1,5 @@
 module.exports = {
-    title: 'andrew cotter',
+    title: 'Aaron Appleton',
     productionTip: false,
     configureWebpack: {
         resolve: {
