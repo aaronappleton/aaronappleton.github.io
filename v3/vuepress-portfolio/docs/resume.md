@@ -1,6 +1,6 @@
 ---
-Title: andrew cotter
-Subtitle: resume/cv
+Title: Aaron Appleton
+Subtitle: Resume/CV
 ---
 
 ::: slot work
