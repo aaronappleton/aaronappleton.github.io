@@ -1,16 +1,16 @@
 ---
 Title: Aaron Appleton
-Subtitle: Learning Experience Designer + Creative Technologist
+Subtitle: Learning Experience Designer
 Remote: https://localprojects.com/work/ABB
 Hero: abb.png
 ---
 
 ::: slot title
-ABB Customer Experience Center
+Game-Based Learning
 :::
 
 ::: slot subtitle
-Helping ABB show potential clients how ABB is capturing the future
+Educational games
 :::
 
 ::: slot hero
