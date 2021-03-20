@@ -1,7 +1,7 @@
 ---
 Title: andrew cotter
 Subtitle: computational art + design
-Hero: thesis-screenshot.png
+Hero: ensigo.jpg
 ---
 
 ::: slot title
@@ -12,7 +12,7 @@ MFA Thesis: Grokking Creative Code
 <section class="hero">
     <div class="hero-body">
         <a href="http://thatcotter.github.io/thesis/" target="_blank">
-            <img src="../.vuepress/public/images/thesis-screenshot-big.png"/>
+            <img src="../.vuepress/public/images/ensigo.jpg"/>
         </a>
     </div>
 </section>
