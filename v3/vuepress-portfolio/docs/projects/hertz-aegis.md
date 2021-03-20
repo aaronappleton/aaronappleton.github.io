@@ -1,7 +1,7 @@
 ---
-Title: andrew cotter
-Subtitle: computational art + design
-Hero: HA_7288(edit).jpg
+Title: Aaron Appleton
+Subtitle: Learning Experience Designer + Creative Technologist
+Hero: scix.jpg
 ---
 
 ::: slot title
