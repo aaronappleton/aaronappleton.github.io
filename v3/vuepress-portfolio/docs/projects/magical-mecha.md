@@ -1,7 +1,7 @@
 ---
-Title: andrew cotter
-Subtitle: computational art + design
-Hero: magic-mecha2.jpg
+Title: Aaron Appleton
+Subtitle: Learning Experience Designer + Creative Technologist
+Hero: playfullearningdesign.jpg
 ---
 
 ::: slot title
