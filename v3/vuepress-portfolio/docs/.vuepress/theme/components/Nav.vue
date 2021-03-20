@@ -2,13 +2,13 @@
     <nav class="tabs is-small">
         <ul>
             <li><a href="/">home</a></li>
-            <li><a href="/about">about</a></li>
-            <li><a href="/resume">resume/cv</a></li>
-            <li><a href="https://github.com/thatcotter"
+            <li><a href="/about">About</a></li>
+            <li><a href="/resume">Resume/CV</a></li>
+            <li><a href="https://github.com/aaronappleton"
                    target="blank"><i class="fab fa-github"></i></a></li>
-            <li><a href="https://www.instagram.com/thatcotter/"
+            <li><a href="https://www.instagram.com/aaronappleton/"
                    target="blank"><i class="fab fa-instagram"></i></a></li>
-            <li><a href="https://twitter.com/ThatCotter"
+            <li><a href="https://twitter.com/aaronappleton"
                    target="blank"><i class="fab fa-twitter"></i></a></li>
         </ul>
     </nav>
