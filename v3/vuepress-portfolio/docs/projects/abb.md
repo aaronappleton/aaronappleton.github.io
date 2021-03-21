@@ -1,7 +1,7 @@
 ---
 Title: Aaron Appleton
-Subtitle: Learning Experience Designer + Creative Technologist
-Remote: https://localprojects.com/work/ABB
+Subtitle: Learning Experience Design
+Remote: https://innovationlabs.harvard.edu/venture-program/
 Hero: limehouse.jpg
 ---
 
@@ -21,9 +21,12 @@ Limehouse
 
 :::
 
-While working as a Creative Technologist at [Local Projects](https://localprojects.com/work/ABB), we worked closely with ABB’s global Customer Experience & Innovation team in Zurich, devising a modular approach enabling a new generation of customer experience centers that rethink how space can augment collaboration and creativity. The first instance of the concept has a permanent home in ABB’s Corporate Research Center in Ladenburg, Germany, and also anchored ABB’s global customer conference in Houston. These initial installations were just the start of a multi-year effort by ABB’s Customer Experience team to establish similar centers around the world.
+I was selected as an EdTech founder for [Harvard Innovation Lab's Venture Program](https://innovationlabs.harvard.edu/venture-program/), where I incubated a startup called Limehouse with four team members.
+<br>
+Limehouse is the education metaverse — a three-sided marketplace that connects learners, educators, and 3D artists through creating learning experiences in playable worlds.
 
 <br><br>
-**Role:** Creative Technologist (WebGL, Node.js, iOS/Swift, Physical Computing).
-Specifically resposible for the Value Drivers station (a webGL based experience with a custom-fabricated physical interface comprised of a dial and sliders) and the Disruptors station (iOS interface on iPads and a custom array of mechanically undulating screens)
+**Role:** CEO, Design Director (UI/UX).
+<br>
+**Collaborators:** Jorian Hoover (CFO), Taleeb Noormohamed(COO), Amreen Poonawala (Product Manager), Tirso Martin (Business Strategy).
 <br><br>
