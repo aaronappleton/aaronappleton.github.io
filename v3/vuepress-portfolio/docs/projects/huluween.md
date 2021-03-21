@@ -1,16 +1,16 @@
 ---
 Title: Aaron Appleton
-Subtitle: Learning Experience Designer + Creative Technologist
+Subtitle: Learning Experience Design
 Remote: https://medium.com/active-theory/huluween-the-screamlands-b1324f32ee7d
 Hero: alusowc.jpg
 ---
 
 ::: slot title
-Huluween 2020
+ALU School of Wildlife Conservation
 :::
 
 ::: slot subtitle
-A Virtual Haunted House Showcasing Hulu's Spookiest Content
+Graduate and Undergraduate Program Design
 :::
 
 ::: slot hero
@@ -38,6 +38,6 @@ As one of Hulu’s largest brand tentpole campaigns, we were tasked with introdu
 <section class="hero">
 <div class="hero-content"
     margin="-50% 0 0 0" postion="relative">
-    <iframe title="vimeo-player" src="https://player.vimeo.com/video/510851234" width="100%" height="800vh" frameborder="0" allowfullscreen></iframe>
+    <iframe title="vimeo-player" src="https://player.vimeo.com/video/526851761" width="100%" height="800vh" frameborder="0" allowfullscreen></iframe>
 </div>
 </section>
