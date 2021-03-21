@@ -1,11 +1,11 @@
 ---
-Title: andrew cotter
-Subtitle: computational art + design
-Hero: BWF_WishingTree_01_workthumb-1920.jpg
+Title: Aaron Appleton
+Subtitle: Learning Experience Designer + Creative Technologist
+Hero: smallab.jpg
 ---
 
 ::: slot title
-Brookfield Holiday
+Embodied Learning
 :::
 
 ::: slot hero
@@ -15,7 +15,7 @@ Brookfield Holiday
         <source src="../.vuepress/public/images/TheWishingForest.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video> -->
-    <iframe title="vimeo-player" src="https://player.vimeo.com/video/380809396" width="100%" height="1000vh" frameborder="0" allowfullscreen></iframe>
+    <iframe title="vimeo-player" src="https://player.vimeo.com/video/526813692" width="100%" height="1000vh" frameborder="0" allowfullscreen></iframe>
 </div>
 :::
 
