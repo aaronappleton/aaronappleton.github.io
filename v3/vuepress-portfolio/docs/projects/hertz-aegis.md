@@ -1,22 +1,22 @@
 ---
 Title: Aaron Appleton
-Subtitle: Learning Experience Designer + Creative Technologist
+Subtitle: Learning Experience Design
 Hero: scix.jpg
 ---
 
 ::: slot title
-Hertzian Aegis
+SciX
 :::
 
 ::: slot subtitle
-A love letter to Design Noir
+Stay at the Forefront of Global Research
 :::
 
 ::: slot hero
 <section class="hero">
     <div class="hero-body">
         <a href="https://redpaperheart.com/work/talktolight" target="_blank">
-            <img src="../.vuepress/public/images/HA_7288(edit).jpg"/>
+            <img src="../.vuepress/public/images/scix.jpg"/>
         </a>
     </div>
 </section>
